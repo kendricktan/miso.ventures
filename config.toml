@@ -1,7 +1,7 @@
 ################################### Default Configuration ############################
 baseurl = "https://miso.ventures/"
 languageCode = "en"
-title = "Vex"
+title = "Meow"
 theme = "vex-hugo"
 
 #################################### Plugins ##########################################
@@ -37,18 +37,18 @@ theme = "vex-hugo"
     
   [[menu.main]]
   name = "Feature"
-  URL = "#feature"
+  URL = "features"
   weight = 2
   
   [[menu.main]]
   name = "Gallery"
-  URL = "#gallery"
+  URL = "gallery"
   weight = 3
   
   [[menu.main]]
   name = "Testimonial"
-  URL = "#testimonial"
-  weight = 4
+  URL = "testimonials"
+  weight = 5
 
 
 ########################### Default parameters ##########################
@@ -56,12 +56,12 @@ theme = "vex-hugo"
 logo = ""
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "Miso ventures - Helping you stay pawsative 24/7!"
 author = "Themefisher"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-71060764-18"
 # copyright
-copyright = "Copyright 2019 &copy; [themefisher](http://www.Themefisher.com) | All right reserved."
+copyright = "Copyright 2019 &copy; | All right reserved."
 
   # Preloader
   [params.preloader]
