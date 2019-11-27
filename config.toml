@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://www.example.com/"
+baseurl = "https://miso.ventures/"
 languageCode = "en"
 title = "Vex"
 theme = "vex-hugo"
